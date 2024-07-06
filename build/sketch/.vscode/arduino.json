@@ -1,0 +1,6 @@
+#line 1 "C:\\Users\\Gregor\\Desktop\\Nace\\Programiranje\\VS Code\\Launchbuino_MIDIcontroller\\.vscode\\arduino.json"
+{
+    "sketch": "Launchbuino_MIDIcontroller.ino",
+    "output": "build",
+    "board": "arduino:avr:leonardo"
+}

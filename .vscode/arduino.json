@@ -1,0 +1,5 @@
+{
+    "sketch": "Launchbuino_MIDIcontroller.ino",
+    "output": "build",
+    "board": "arduino:avr:leonardo"
+}
